@@ -1,0 +1,19 @@
+{
+  "name": "automotive-index",
+  "version": "1.0.0",
+  "description": "### DB Indexing Exercise in PostgreSQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alexithemia/Automotive-Index.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alexithemia/Automotive-Index/issues"
+  },
+  "homepage": "https://github.com/Alexithemia/Automotive-Index#readme"
+}
